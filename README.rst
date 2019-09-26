@@ -5,6 +5,9 @@
 .. |Travis| image:: https://travis-ci.org/scikit-learn-contrib/project-template.svg?branch=master
 .. _Travis: https://travis-ci.org/scikit-learn-contrib/project-template
 
+.. |Travis| image:: https://travis-ci.org/fjqs-nakahara/ci-test.svg?branch=master
+.. _Travis: https://travis-ci.org/fjqs-nakahara/ci-test
+
 .. |Codecov| image:: https://codecov.io/gh/scikit-learn-contrib/project-template/branch/master/graph/badge.svg
 .. _Codecov: https://codecov.io/gh/scikit-learn-contrib/project-template
 
