@@ -2,9 +2,6 @@
 
 |Travis|_ |Codecov|_ |ReadTheDocs|_
 
-.. |Travis| image:: https://travis-ci.org/scikit-learn-contrib/project-template.svg?branch=master
-.. _Travis: https://travis-ci.org/scikit-learn-contrib/project-template
-
 .. |Travis| image:: https://travis-ci.org/fjqs-nakahara/ci-test.svg?branch=master
 .. _Travis: https://travis-ci.org/fjqs-nakahara/ci-test
 
