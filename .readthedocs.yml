@@ -12,6 +12,6 @@ version: 2
 #  system_packages: true
 
 conda:
-  environment: docs/environment.yml
+  environment: doc/ci-test.yml
 python:
   version: 3
