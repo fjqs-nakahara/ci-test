@@ -1,4 +1,4 @@
-name: featda
+name: docs/featda
 channels:
   - defaults
   - conda-forge
