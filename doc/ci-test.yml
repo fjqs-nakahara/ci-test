@@ -1,4 +1,4 @@
-name: sktemplate
+name: skltemplate
 channels:
   - defaults
   - conda-forge
