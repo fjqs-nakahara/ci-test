@@ -12,6 +12,6 @@ version: 2
 #  system_packages: true
 
 conda:
-  environment: environment.yml
+  environment: doc/environment.yml
 python:
   version: 3.7
