@@ -1,4 +1,4 @@
-name: docs/featda
+name: skltemplate
 channels:
   - defaults
   - conda-forge
