@@ -1,4 +1,4 @@
-name: docs/skltemplate
+name: fjqs-nakahara/ci-test
 channels:
   - defaults
   - conda-forge
