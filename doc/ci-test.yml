@@ -74,7 +74,6 @@ dependencies:
     - coverage==4.5.4
     - decorator==4.4.0
     - docutils==0.15.2
-    - feature-tda==0.0.5
     - idna==2.8
     - imageio==2.5.0
     - imagesize==1.1.0
