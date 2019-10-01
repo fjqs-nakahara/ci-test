@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # scikit-learn specific
-# doc/_build/
+doc/_build/
 doc/auto_examples/
 doc/modules/generated/
 doc/datasets/generated/
@@ -60,8 +60,8 @@ coverage.xml
 *.log
 
 # Sphinx documentation
-# doc/_build/
-doc/_build/doctrees/
+doc/_build/
+# doc/_build/doctrees/
 doc/generated/
 
 # PyBuilder
