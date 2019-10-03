@@ -40,7 +40,7 @@ class TemplateEstimator(BaseEstimator):
         """
         X, y = check_X_y(X, y, accept_sparse=True)
         self.is_fitted_ = True
-        #import gudhi
+        # import gudhi
         #st = gudhi.SimplexTree()
         # `fit` should always return `self`
         return self
